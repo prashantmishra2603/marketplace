@@ -4,9 +4,9 @@ A full-stack MERN (MongoDB, Express, React, Node.js) fashion marketplace applica
 
 ## 🚀 Live Deployment
 
-- **Frontend**: [MarketNest Frontend](https://marketnest.vercel.app)
-- **Backend**: [MarketNest API](https://marketnest-api.onrender.com)
-- **GitHub Repository**: [GitHub Repo](https://github.com/yourusername/marketnest)
+- **Frontend**: [MarketNest Frontend](https://vercel.com/prashantmishra2603s-projects/marketplace)
+- **Backend**: [MarketNest API](https://marketplace-zvb5.onrender.com/)
+- **GitHub Repository**: [GitHub Repo](https://github.com/prashantmishra2603/marketplace.git)
 
 ---
 
